@@ -1,0 +1,38 @@
+body {
+    background-image: url("image/background.jpg");;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#big_frame {
+    /* width: 1350px;
+     */
+    /* height: 600px; */
+    padding: 13px;
+ 
+    position: absolute;
+    left: 5%;
+    top: 5%;
+    /* margin: 5%; */
+    /* margin-left: -200px;
+    margin-top: -200px; */
+ 
+    background-color: rgba(240, 255, 255, 0.5);
+ 
+    border-radius: 10px;
+    text-align: center;
+
+    outline-style: groove;
+
+    display: inline;
+}
+
+#left_frame {
+    width: 500px;
+    height: 600px;
+}
+
+#right_frame {
+    width: 500px;
+    height: 600px;
+}
